@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Duy Le's Front-end project
+
+## About this project
+This front-end project is a part of [my larger project](https://github.com/OberlinCollaborativeCodingWinterTerm/winter-term-project-webcodelearning), which is my effort of developing a full-stack website. I use `npm run build` to create a build for the production of my website.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
